@@ -48,7 +48,6 @@ This project aims to answer the following questions:
 
 ## Project Structure
 
-```text
 Customer-Churn-Analysis/
 │
 ├── dashboard/
@@ -73,7 +72,6 @@ Customer-Churn-Analysis/
 │   └── churn_kpis.sql
 │
 └── README.md
-```
 
 ---
 
