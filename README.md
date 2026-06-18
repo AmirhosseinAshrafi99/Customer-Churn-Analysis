@@ -52,7 +52,10 @@ This project aims to answer the following questions:
 Customer-Churn-Analysis/
 │
 ├── dashboard/
-│   └── customer_churn_dashboard.pbix
+│   ├── customer_churn_dashboard.pbix
+│   │
+│   └── images/
+│       └── customer_churn_dashboard.png
 │
 ├── data/
 │   ├── raw/
@@ -60,9 +63,6 @@ Customer-Churn-Analysis/
 │   └── processed/
 │       ├── clean_telco_churn.csv
 │       └── customer_churn.db
-│
-├── images/
-│   └── customer_churn_dashboard.png
 │
 ├── notebooks/
 │   └── churn_analysis.ipynb
@@ -79,7 +79,7 @@ Customer-Churn-Analysis/
 
 # Dashboard
 
-![Customer Churn Dashboard](images/customer_churn_dashboard.png)
+![Customer Churn Dashboard](dashboard/images/customer_churn_dashboard.png)
 
 ---
 
