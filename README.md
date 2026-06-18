@@ -46,14 +46,13 @@ This project aims to answer the following questions:
 
 ---
 
-## Project Structure
-
+Project Structure
 Customer-Churn-Analysis/
 │
 ├── dashboard/
 │   ├── customer_churn_dashboard.pbix
 │   │
-│   └── images/
+│   └──images/
 │       └── customer_churn_dashboard.png
 │
 ├── data/
@@ -62,6 +61,7 @@ Customer-Churn-Analysis/
 │   └── processed/
 │       ├── clean_telco_churn.csv
 │       └── customer_churn.db
+│
 │
 ├── notebooks/
 │   └── churn_analysis.ipynb
